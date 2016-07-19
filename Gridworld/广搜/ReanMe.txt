@@ -1,0 +1,19 @@
+有关程序
+  编译：
+    ant
+  运行：
+    ant RunnerPart2
+    P.S.运行RunnerPart1或者Demo部分要改维度为3，再之后要
+        重新编译(ant),后运行:ant *(eg. ant RunnerDemo)
+  清除:
+    ant clean
+
+目录结构:
+   src:
+      .java文件
+
+P.S.
+Java配置：
+    1.7版本
+或者代开build.xml文件修改1.7为正确java版本配置即可
+
